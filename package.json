@@ -1,0 +1,21 @@
+{
+  "name": "@regions-of-indonesia/types",
+  "version": "0.0.0",
+  "types": "./index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
+  "private": false,
+  "repository": "https://github.com/regions-of-indonesia/types.git",
+  "author": {
+    "name": "flamrdevs",
+    "url": "https://github.com/flamrdevs"
+  },
+  "license": "GPL-3.0",
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^15.10.3"
+  }
+}
