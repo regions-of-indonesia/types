@@ -3,6 +3,23 @@
 </p>
 
 <p align="center">
+  <a title="license" href="https://github.com/regions-of-indonesia/types/blob/main/LICENSE">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/l?t=dark&n=@regions-of-indonesia/types">
+      <img alt="license" src="https://none.deno.dev/npm/l?t=light&n=@regions-of-indonesia/types" hspace="1">
+    </picture>
+  </a>
+  <a title="version" href="https://www.npmjs.com/package/@regions-of-indonesia/types">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/v?t=dark&n=@regions-of-indonesia/types">
+      <img alt="version" src="https://none.deno.dev/npm/v?t=light&n=@regions-of-indonesia/types" hspace="1">
+    </picture>
+  </a>
+</p>
+
+# Regions of Indonesia
+
+<p align="left">
   <a title="Site" href="https://regions-of-indonesia.netlify.app">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/ui/button/lucide?t=dark&i=external-link&e=Site">
@@ -17,4 +34,6 @@
   </a>
 </p>
 
-# Regions of Indonesia
+## License
+
+[GPL-3.0](https://github.com/regions-of-indonesia/types/blob/main/LICENSE)
