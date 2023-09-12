@@ -1,8 +1,24 @@
 {
   "name": "@regions-of-indonesia/types",
   "version": "5.0.1",
+  "type": "module",
+  "main": "./index.cjs",
   "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./index.d.ts",
+        "default": "./index.js"
+      },
+      "require": {
+        "types": "./index.d.ts",
+        "default": "./index.cjs"
+      }
+    }
+  },
   "files": [
+    "index.cjs",
+    "index.js",
     "index.d.ts"
   ],
   "private": false,
