@@ -36,6 +36,6 @@
     "release": "release-it"
   },
   "devDependencies": {
-    "release-it": "^16.1.5"
+    "release-it": "^16.2.1"
   }
 }
